@@ -2,11 +2,7 @@
 ---
 
 @import 'jekyll-theme-slate';
-html {
-  border: 10px ridge #f00;
-  background-color: #ff0;
-  padding: 0.5rem;
-  display: flex;
-  flex-direction: column;
-  font-family: 'Courier New', monospace;
+#main_content_wrap{
+    background:yellow;
+    font:monospace;
 }

@@ -4,5 +4,13 @@
 @import 'jekyll-theme-slate';
 #main_content_wrap{
     background:yellow;
-    font:monospace;
+    font-family:monospace;
+}
+#header_wrap{
+    background:blue;
+    font-family:cursive;
+}
+#footer_wrap{
+    background:magenta;
+    font-family:cursive;
 }
